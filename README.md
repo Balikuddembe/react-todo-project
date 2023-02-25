@@ -58,7 +58,7 @@ In this exercise, I consolidated my knowledge about React, components, props, st
 
 Not yet deployed
 
-- [Not deployed yet]()
+- [Live Demo](https://react-todo-app-a4i5.onrender.com)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
